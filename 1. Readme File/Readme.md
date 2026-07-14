@@ -25,7 +25,7 @@ I first reviewed the available tables and fields, including:
 - Devices used
 Payment history
 
-The aim was to understand what each field represented and identify missing or inconsistent data.
+The aim was to understand what each field represented and to identify missing or inconsistent data.
 
 - **Step 2: Cleaning the data**
 
